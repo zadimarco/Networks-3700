@@ -1,0 +1,6 @@
+[submodule "Networks-Proj1"]
+	path = Networks-Proj1
+	url = https://github.com/zadimarco/Networks-Proj1.git
+[submodule "Networks-Proj2"]
+	path = Networks-Proj2
+	url = https://github.com/zadimarco/Networks-Proj2.git
